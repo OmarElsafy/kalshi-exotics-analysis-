@@ -1,0 +1,42 @@
+{
+  "sample_tickers_queried": 700,
+  "sample_sub1c_trades": 531,
+  "shape": {
+    "0.1": {
+      "trades": 36,
+      "contracts": 67631.0
+    },
+    "0.2": {
+      "trades": 111,
+      "contracts": 310751.0
+    },
+    "0.3": {
+      "trades": 58,
+      "contracts": 141530.0
+    },
+    "0.4": {
+      "trades": 59,
+      "contracts": 165095.0
+    },
+    "0.5": {
+      "trades": 69,
+      "contracts": 67071.0
+    },
+    "0.6": {
+      "trades": 56,
+      "contracts": 67773.62
+    },
+    "0.7": {
+      "trades": 49,
+      "contracts": 34254.0
+    },
+    "0.8": {
+      "trades": 48,
+      "contracts": 47351.0
+    },
+    "0.9": {
+      "trades": 45,
+      "contracts": 31985.0
+    }
+  }
+}

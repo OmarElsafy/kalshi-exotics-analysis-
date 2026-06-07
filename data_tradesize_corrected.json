@@ -1,0 +1,40 @@
+{
+  "total_trades": 32457465,
+  "buckets": [
+    {
+      "bucket": "Under $2",
+      "pct_trades": 16.7,
+      "pct_cash": 0.4
+    },
+    {
+      "bucket": "$2-5",
+      "pct_trades": 19.6,
+      "pct_cash": 1.7
+    },
+    {
+      "bucket": "$5-10",
+      "pct_trades": 19.5,
+      "pct_cash": 3.7
+    },
+    {
+      "bucket": "$10-20",
+      "pct_trades": 15.6,
+      "pct_cash": 5.4
+    },
+    {
+      "bucket": "$20-50",
+      "pct_trades": 15.5,
+      "pct_cash": 12.0
+    },
+    {
+      "bucket": "$50-200",
+      "pct_trades": 9.6,
+      "pct_cash": 22.7
+    },
+    {
+      "bucket": "$200+",
+      "pct_trades": 3.4,
+      "pct_cash": 54.0
+    }
+  ]
+}

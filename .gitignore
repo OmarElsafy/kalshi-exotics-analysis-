@@ -1,0 +1,44 @@
+# Internal working files (not for public repo)
+00_PROJECT_HANDOFF.md
+writing_style_guide.md
+kalshi_exotics_report_draft.md
+report_framework.md
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment files
+.env
+.env.local
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Node / docx build tooling
+node_modules/
+package-lock.json
+package.json
+build_docx.js
+_preview/
+
+# Working deliverables (binary drafts, not source)
+*.docx
+*.pptx
+*.pages
+
+# Internal / unpublished working material (not for public repo)
+skills/
+further_articles.md
+insight_framework.md
+# pre-publication article dataset
+article_data.json

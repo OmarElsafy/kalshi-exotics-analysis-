@@ -1,0 +1,50 @@
+{
+  "window": "2025-09-17..2026-06-01",
+  "total_trades": 32457465,
+  "total_handle": 1393730154.7271967,
+  "method": "eff price: 0c->0.367c (sample), Nc->N+0.45c (midpoint)",
+  "buckets": [
+    {
+      "bucket": "0-2c (extreme longshots)",
+      "trades": 6531078,
+      "pct_trades": 20.1,
+      "handle_m": 63.7,
+      "pct_handle": 4.6
+    },
+    {
+      "bucket": "3-5c",
+      "trades": 3612208,
+      "pct_trades": 11.1,
+      "handle_m": 63.2,
+      "pct_handle": 4.5
+    },
+    {
+      "bucket": "6-15c",
+      "trades": 7800724,
+      "pct_trades": 24.0,
+      "handle_m": 213.1,
+      "pct_handle": 15.3
+    },
+    {
+      "bucket": "16-30c",
+      "trades": 7235507,
+      "pct_trades": 22.3,
+      "handle_m": 338.7,
+      "pct_handle": 24.3
+    },
+    {
+      "bucket": "31-50c",
+      "trades": 5213148,
+      "pct_trades": 16.1,
+      "handle_m": 394.5,
+      "pct_handle": 28.3
+    },
+    {
+      "bucket": "51-99c",
+      "trades": 2064800,
+      "pct_trades": 6.4,
+      "handle_m": 320.6,
+      "pct_handle": 23.0
+    }
+  ]
+}

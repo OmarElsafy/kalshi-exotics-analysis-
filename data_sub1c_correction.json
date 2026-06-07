@@ -1,0 +1,51 @@
+{
+  "as_of": "2026-06-02",
+  "window": "date >= 2025-09-17 AND date <= 2026-06-01",
+  "query_id": 7659835,
+  "note": "Corrected distribution including sub-1c (price=0) bucket. Dune stores price as integer cents; sub-1c trades floor to 0.",
+  "total_trades": 32457465,
+  "buckets": [
+    {
+      "bucket": "1: sub-1c (0.1-0.9c)",
+      "contracts": 5008276716.540001,
+      "pct_of_trades": "8.920000000000000",
+      "trades": 2894623
+    },
+    {
+      "bucket": "2: 1c",
+      "contracts": 1596525161.99,
+      "pct_of_trades": "6.450000000000000",
+      "trades": 2092583
+    },
+    {
+      "bucket": "3: 2-5c",
+      "contracts": 2375547405.3599997,
+      "pct_of_trades": "15.890000000000000",
+      "trades": 5156080
+    },
+    {
+      "bucket": "4: 6-15c",
+      "contracts": 2110237218.93,
+      "pct_of_trades": "24.030000000000000",
+      "trades": 7800724
+    },
+    {
+      "bucket": "5: 16-30c",
+      "contracts": 1483544285.76,
+      "pct_of_trades": "22.290000000000000",
+      "trades": 7235507
+    },
+    {
+      "bucket": "6: 31-50c",
+      "contracts": 987919979.7299998,
+      "pct_of_trades": "16.060000000000000",
+      "trades": 5213148
+    },
+    {
+      "bucket": "7: 51-99c",
+      "contracts": 482129286.74,
+      "pct_of_trades": "6.360000000000000",
+      "trades": 2064800
+    }
+  ]
+}
